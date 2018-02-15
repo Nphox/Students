@@ -1,0 +1,6 @@
+#Debug files are not needed
+Debug/
+Students/Debug
+
+#visual studio files
+.vs/
